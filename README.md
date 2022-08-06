@@ -5,8 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhav021996" alt="anubhav021996" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/anubhav_02" target="blank"><img src="https://img.shields.io/twitter/follow/anubhav_02?logo=twitter&style=for-the-badge" alt="anubhav_02" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/anubhav_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhav_02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anubhav021996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav021996" height="30" width="40" /></a>
 <a href="https://instagram.com/anubhav_varshney02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anubhav_varshney02" height="30" width="40" /></a>
 </p>
