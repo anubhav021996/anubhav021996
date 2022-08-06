@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **Javascript, React, Redux**
 
-- 📫 How to reach me **anubhav.varshney02nov@gmail.com**
+- 📫 Reach me at **anubhav.varshney02nov@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1PBf0LM08wa12gFdVDwwkNJQdDvUIX1uv?usp=sharing](https://drive.google.com/drive/folders/1PBf0LM08wa12gFdVDwwkNJQdDvUIX1uv?usp=sharing)
 
-- ⚡ Fun fact **Actor**
+- ⚡ Hobbies **Actor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
