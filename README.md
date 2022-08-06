@@ -7,6 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/anubhav_02" target="blank"><img src="https://img.shields.io/twitter/follow/anubhav_02?logo=twitter&style=for-the-badge" alt="anubhav_02" /></a> </p>
 
+- 🌱 I’m currently learning **Typescript**
+
+- 💬 Ask me about **Javascript, React, Redux**
+
+- 📫 How to reach me **anubhav.varshney02nov@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1PBf0LM08wa12gFdVDwwkNJQdDvUIX1uv?usp=sharing](https://drive.google.com/drive/folders/1PBf0LM08wa12gFdVDwwkNJQdDvUIX1uv?usp=sharing)
+
+- ⚡ Fun fact **Actor**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anubhav_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhav_02" height="30" width="40" /></a>
