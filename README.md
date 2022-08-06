@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1PBf0LM08wa12gFdVDwwkNJQdDvUIX1uv?usp=sharing](https://drive.google.com/drive/folders/1PBf0LM08wa12gFdVDwwkNJQdDvUIX1uv?usp=sharing)
 
-- ⚡ Hobby **Acting**
+- ⚡ Free time skill **Acting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
