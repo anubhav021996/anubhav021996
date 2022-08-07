@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at https//anubhav-varshney-portfolio.vercel.app/
+- 👨‍💻 All of my projects are available at https://anubhav-varshney-portfolio.vercel.app/#/
 
 - 💬 Ask me about **Javascript, React, Redux**
 
