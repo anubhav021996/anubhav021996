@@ -16,7 +16,7 @@
 
 - 📫 Reach me at **anubhav.varshney02nov@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1PBf0LM08wa12gFdVDwwkNJQdDvUIX1uv?usp=sharing](https://drive.google.com/drive/folders/1PBf0LM08wa12gFdVDwwkNJQdDvUIX1uv?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1doveaB0VuMvmFaZdZU3qvjgcVDiiqmnt/view?usp=sharing](https://drive.google.com/file/d/1doveaB0VuMvmFaZdZU3qvjgcVDiiqmnt/view?usp=sharing)
 
 - ⚡ Free time skill **Acting**
 
