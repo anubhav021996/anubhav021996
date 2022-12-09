@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at https://anubhav-varshney-portfolio.vercel.app/#/
+- 👨‍💻 All of my projects are available at https://anubhav-varshney-portfolio.vercel.app/
 
 - 💬 Ask me about **Javascript, React, Redux**
 
 - 📫 Reach me at **anubhav.varshney02nov@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1doveaB0VuMvmFaZdZU3qvjgcVDiiqmnt/view?usp=sharing](https://drive.google.com/file/d/1doveaB0VuMvmFaZdZU3qvjgcVDiiqmnt/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1aaUSrl_vYRiAtaNPaV2LUs3OzoHUmV5T/view?usp=sharing
 
 - ⚡ Free time skill **Acting**
 
