@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anubhav Varshney</h1>
 <h3 align="center">- I'm a Full Stack Web Developer skilled in MERN stack</h3>
-<h3 align="center">- Currently working as Front end Engineer at Relative Technologies</h3>
+<h3 align="center">- Currently working as Front-end Engineer at Relative Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav021996&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav021996" /> </p>
 
