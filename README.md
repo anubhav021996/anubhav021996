@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav021996&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav021996" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Solidity, Golang**
 
 - 👨‍💻 All of my projects are available at https://anubhav-varshney-portfolio.vercel.app/
 
