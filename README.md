@@ -8,7 +8,7 @@ Frontend Engineer at Showdown Gaming | React.js, Next.js, TypeScript
 
 ### 👨‍💻 About Me
 
-* 🚀 Frontend Engineer with 3+ years of experience building scalable web applications
+* 🚀 Frontend Engineer with 4+ years of experience building scalable web applications
 * 💼 Currently working at Showdown Gaming
 * ⚡ Strong in **React, Next.js, TypeScript, performance optimization, and UI architecture**
 * 🧠 Good understanding of **SSR, CSR, API integration, and state management**
